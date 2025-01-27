@@ -1,0 +1,1 @@
+This example demonstrates a common error in Dapps where the contract's balance is mistakenly retrieved instead of the user's balance. The bug is explained in `bug.sol` and a corrected version is provided in `bugSolution.sol`.
